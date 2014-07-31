@@ -1,0 +1,20 @@
+# Ignores
+*.apk
+*.ap_
+
+*.dex
+
+*.class
+*.log
+
+\.classpath
+\.DS_Store
+\.project
+\.settings
+
+libs/
+[Bb]in/
+gen/
+assets/
+[Dd]ebug*/
+
